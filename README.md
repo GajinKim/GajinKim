@@ -14,7 +14,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge//MySQL-00000F?style=fflat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=fflat-square&logo=mysql&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
 ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=flat-square&logo=testing-library&logoColor=red)
