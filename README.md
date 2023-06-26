@@ -30,8 +30,7 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## :zap: My Stats
-![](https://github-readme-stats.vercel.app/api?username=gajinkim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## :zap: My Stats\
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajinkim&theme=dark&hide_border=false)<br/>
 
 <!-- List of Badges -->
