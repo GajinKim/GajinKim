@@ -1,5 +1,5 @@
-## :globe_with_meridians: My Portfolio Webste
-[Gajin Kim Svelte Portfolio](https://gajinkim.github.io/svelte-portfolio/)
+## :globe_with_meridians: My Portfolio Webste made with Svelte
+[Gajin Kim Portfolio](https://gajinkim.github.io/svelte-portfolio/)
 
 ## :computer: My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
